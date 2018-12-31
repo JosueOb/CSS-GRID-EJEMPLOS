@@ -1,5 +1,5 @@
 # CSS-GRID-EJEMPLOS
 Ejemplos de CSS GRID
-Instagram
-Pinterest
+Instagram,
+Pinterest,
 Landing Platzi
